@@ -1,6 +1,7 @@
 # 🌿 Lucky Shrub Website
 
 This is a static website project built as part of the **Meta Front-End Developer Certificate** on Coursera.
+https://makcoder671.github.io/LuckySProject/
 
 ## 📚 Course Project
 
@@ -54,4 +55,4 @@ Edit
 - [Meta Front-End Developer Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - Thanks to Coursera & Meta for this opportunity to learn and build!
 
----
+[---]
